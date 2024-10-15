@@ -1,12 +1,4 @@
-//
-//  main.cpp
-//  LinearRegression
-//
-//  Created by Surinder pal Singh on 13/10/24.
-// f(x) = y;
-// w = (xi - x)(yi-y)/(xi-x)^2
-// b = wx-MediaY
-// y = wx+b
+
 
 #include <iostream>
 #include <cmath>
